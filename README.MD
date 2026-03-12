@@ -1,10 +1,6 @@
 # 🏨 AtliQ Grands — Hospitality Revenue Analytics
 
 <p align="center">
-  <img src="resources/mock up dashboard_atliq grands.png" alt="AtliQ Grands Dashboard" width="80%"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Domain-Hospitality-blue?style=for-the-badge&logo=hotel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -14,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Timeline-May–July%202022-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Properties-15%2B%20Hotels-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Properties-20%2B%20Hotels-blueviolet?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL%20Queries-21%20Business%20Questions-informational?style=flat-square"/>
   <img src="https://img.shields.io/badge/Reports-20%20CSV%20Files-success?style=flat-square"/>
 </p>
